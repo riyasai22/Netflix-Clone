@@ -1,4 +1,0 @@
-[submodule "netflix-ui"]
-	url = https://github.com/riyasai22/netflix-ui.git
-[submodule "netflix-api"]
-	url = https://github.com/riyasai22/netflix-api.git
